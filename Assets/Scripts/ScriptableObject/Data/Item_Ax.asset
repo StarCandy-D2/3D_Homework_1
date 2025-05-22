@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8b6051c5b0ca85468c3fa2edee0bbe7, type: 3}
+  m_Name: Item_Ax
+  m_EditorClassIdentifier: 
+  displayName: "\uC810\uD504\uD5A5\uC0C1\uC758 \uB3C4\uB07C"
+  description: "\uC65C \uB3C4\uB07C\uB97C \uB4E4\uBA74 \uC810\uD504\uB825\uC774 \uD5A5\uC0C1\uD558\uB098\uC694?
+    \uAC19\uC740 \uB098\uC05C\uC9C8\uBB38\uC740 \uD558\uC9C0 \uB9C8\uC138\uC694!
+    \uC81C \uB9D8\uC774\uC5D0\uC694!"
+  type: 0
+  icon: {fileID: 21300000, guid: 06e8d836c76eb494db7ab3784ffcb0eb, type: 3}
+  dropPrefab: {fileID: 1452105119649605091, guid: 577e33823bc9f5d49ab454b1fb9318db, type: 3}
+  canStack: 0
+  maxStackAmount: 0
+  consumables: []
+  equipPrefab: {fileID: 6532059853548584419, guid: c5e0c173564115249b39244b28da0cad, type: 3}
